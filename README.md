@@ -2,12 +2,12 @@
 <h3 align="center">DevOps, Cloud & MLOps Engineer who loves automation ☁️⚙️</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" width="22px" />
+  <a href="https://www.linkedin.com/in/umar-khaliq/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" width="22px" style="filter: invert(28%) sepia(93%) saturate(1352%) hue-rotate(191deg) brightness(97%) contrast(97%);"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/github.svg" width="22px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/github.svg" width="22px" style="filter: invert(100%);"/>
   </a>
 </p>
 
