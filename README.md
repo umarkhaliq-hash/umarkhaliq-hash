@@ -7,7 +7,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/github.svg" width="22px" style="filter: invert(100%);"/>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/github.svg" width="22px" style="filter: invert(0%);"/>
   </a>
 </p>
 
