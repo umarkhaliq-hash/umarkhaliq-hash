@@ -3,11 +3,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/umar-khaliq/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" width="22px" style="filter: invert(28%) sepia(93%) saturate(1352%) hue-rotate(191deg) brightness(97%) contrast(97%);"/>
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="25"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/github.svg" width="22px" style="filter: invert(0%);"/>
+  <a href="https://github.com/umar-khaliq" target="blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-ffffff?style=flat&logo=github&logoColor=black" height="25"/>
   </a>
 </p>
 
