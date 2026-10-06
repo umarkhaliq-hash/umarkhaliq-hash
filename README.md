@@ -31,7 +31,7 @@
 
 ## 👨‍💻 Professional Experience
 
-### **DevOps Engineer — Infinity Edge Technologies (IET)**
+### **DevOps Engineer — Devyce Technologies**
 📍 Lahore, Pakistan  
 🗓️ *09/2025 – Present*
 
