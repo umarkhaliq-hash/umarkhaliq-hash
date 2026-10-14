@@ -96,9 +96,12 @@
 
 ## 🧾 Certifications
 
-- 🎖 Docker for Absolute Beginners — KodeKloud  
-- 🎖 Kubernetes for Absolute Beginners — KodeKloud  
-- 🎖 AWS Knowledge: Cloud Essentials — AWS  
+- 🎖 Docker for Absolute Beginners — KodeKloud
+- 🎖 DCA (Docker Certified Associate) — KodeKloud
+- 🎖 Kubernetes for Absolute Beginners — KodeKloud
+- 🎖 CKA — KodeKloud 
+- 🎖 AWS Knowledge: Cloud Essentials — AWS
+- 🎖 AWS Solutions Architect Associate Certification — KodeKloud 
 - 🎖 FortiGate & ASA Firewall (NSE 3)  
 - 🎖 CCNA & CCNP  
 - 🎖 MCSE  
